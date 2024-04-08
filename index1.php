@@ -34,10 +34,10 @@ $barang = [
                   <li>
                         <img src="img<?= $brg["gambar"]; ?>">
                   </li>
-                  <li>nama: <?php echo $brg["nama"]; ?></li>
-                  <li>merk: <?php echo $brg["merk"]; ?></li>
-                  <li>warna: <?php echo $brg["warna"]; ?></li>
-                  <li>harga: <?php echo $brg["harga"]; ?></li>
+                  <li>nama: <?= $brg["nama"]; ?></li>
+                  <li>merk: <?= $brg["merk"]; ?></li>
+                  <li>warna: <?= $brg["warna"]; ?></li>
+                  <li>harga: <?= $brg["harga"]; ?></li>
             </ul>
       <?php } ?>
 
