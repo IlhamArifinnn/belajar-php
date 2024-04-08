@@ -2,7 +2,7 @@
     <div class="float-right d-none d-sm-block">
         <b>Version</b> 3.1.0
     </div>
-    <strong>Copyright &copy; 2023 <a href="#"> ganti nama anda</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2023 <a href="#">Ilham Arifin</a>.</strong> All rights reserved.
 </footer>
 
 <!-- Control Sidebar -->
