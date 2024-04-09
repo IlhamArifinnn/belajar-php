@@ -4,7 +4,6 @@ require_once 'dbkoneksi.php';
 
 // Menangkap data yang dikirimkan melalui form
 if (isset($_POST['submit'])) {
-
     $_kode = $_POST['kode'];
     $_nama = $_POST['nama'];
     $_tmp_lahir = $_POST['tmp_lahir'];
