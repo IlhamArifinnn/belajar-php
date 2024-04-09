@@ -7,7 +7,7 @@ include_once 'sidebar.php';
 
 //2 Query untuk mendapatkan data pasien
 $query = $dbh->query('SELECT * FROM pasien');
-//$query = $dbh->query('SELECT pasien.*, kelurahan.nama AS kategori FROM pasien INNER JOIN kelurahan ON kelurahan.id = pasien.kelurahan_id');
+
 $nomor = 1;
 ?>
 <!DOCTYPE html>
