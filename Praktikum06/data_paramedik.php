@@ -1,6 +1,6 @@
 <?php
 //1. sertakan koneksi database
-require_once 'dbkoneksi.php';
+require_once 'dbkowneksi.php';
 include_once 'header.php';
 include_once 'sidebar.php';
 

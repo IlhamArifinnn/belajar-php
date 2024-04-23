@@ -59,7 +59,7 @@ $nomor = 1;
                                             <th>Kelurahan ID</th>
                                             <th>Aksi</th>
                                         </tr>
-                                    </thead>
+                                    </thead>w
                                     <tbody>
                                         <?php
                                         // Loop menggunakan foreach untuk menampilkan data pasien
