@@ -57,6 +57,7 @@ $nomor = 1;
                                             <th>Email</th>
                                             <th>Alamat</th>
                                             <th>Kelurahan ID</th>
+                                            <th>Aksi</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -73,6 +74,10 @@ $nomor = 1;
                                             echo "<td>" . $row['email'] . "</td>";
                                             echo "<td>" . $row['alamat'] . "</td>";
                                             echo "<td>" . $row['kelurahan_id'] . "</td>";
+                                            echo "<td>";
+                                            echo "<a href='' >Edit</a> | ";
+                                            echo "<a href='' >Delete</a>";
+                                            echo "</td>";
                                             echo "</tr>";
                                         }
                                         ?>
