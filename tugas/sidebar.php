@@ -14,7 +14,7 @@
                  <img src="dist/img/avatar4.png" class="img-circle elevation-2" alt="User Image">
              </div>
              <div class="info">
-                 <a href="#" class="d-block">Ganti nama</a>
+                 <a href="#" class="d-block">Ilham Arifin</a>
              </div>
          </div>
 

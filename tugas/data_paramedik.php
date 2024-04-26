@@ -99,7 +99,7 @@ $nomor = 1;
         function confirmDelete(id) {
             var result = confirm("Apakah Anda yakin ingin menghapus data ini?");
             if (result) {
-                window.location = 'delete_paramedik.php?id=' + id;
+                window.location = 'delete.php?table=paramedik&id=' + id;
             }
             return false;
         }

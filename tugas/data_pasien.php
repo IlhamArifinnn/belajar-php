@@ -105,7 +105,7 @@ $nomor = 1;
         function confirmDelete(id) {
             var result = confirm("Apakah Anda yakin ingin menghapus data ini?");
             if (result) {
-                window.location = 'delete_pasien.php?id=' + id;
+                window.location = 'delete.php?table=pasien&id=' + id;
             }
             return false;
         }

@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'dbpuskesmas';
+$db = 'dbpuskesmas2';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
